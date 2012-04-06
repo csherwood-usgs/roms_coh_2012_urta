@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/time.c
+END
+recv.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/recv.c
+END
+listP.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/listP.h
+END
+ftest.F90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/ftest.F90
+END
+listops.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/listops.h
+END
+mpiP.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpiP.h
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/list.c
+END
+mpif.real8double16.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpif.real8double16.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/README
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/pack.c
+END
+handles.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/handles.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/list.h
+END
+ctest.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/ctest.c
+END
+make-mpif
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/make-mpif
+END
+mpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpi.c
+END
+fort.F90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/fort.F90
+END
+req.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/req.c
+END
+collective.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/collective.c
+END
+mpif.real4double8.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpif.real4double8.h
+END
+send.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/send.c
+END
+mpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpi.h
+END
+mpif.master.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpif.master.h
+END
+comm.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/comm.c
+END
+group.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/group.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/Makefile
+END
+protify.awk
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/protify.awk
+END
+mpif.real8double8.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/mpi-serial/mpif.real8double8.h
+END

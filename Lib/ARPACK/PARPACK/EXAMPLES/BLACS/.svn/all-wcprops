@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS
+END
+pcndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pcndrv1.f
+END
+psndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/psndrv1.f
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/stat.h
+END
+pdndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pdndrv1.f
+END
+psndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/psndrv3.f
+END
+pdndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pdndrv3.f
+END
+psntest1.f
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/psntest1.f
+END
+pdntest1.f
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pdntest1.f
+END
+pssdrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pssdrv1.f
+END
+pdsdrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pdsdrv1.f
+END
+pzndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/pzndrv1.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/debug.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/BLACS/makefile
+END

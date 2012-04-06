@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1
+END
+coupler.F90
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1/coupler.F90
+END
+master.F90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1/master.F90
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1/README
+END
+model.F90
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/MCT/examples/climate_concur1/model.F90
+END

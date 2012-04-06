@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/cstm/!svn/ver/2245/branches/aretxabaleta/code_2012_urta/Compilers
+END
+UNICOS-sn-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/UNICOS-sn-f90.mk
+END
+Darwin-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-xlf.mk
+END
+Linux-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-pgi.mk
+END
+Linux-necsx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-necsx.mk
+END
+Linux-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-gfortran.mk
+END
+Linux-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-ifort.mk
+END
+CYGWIN-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/CYGWIN-gfortran.mk
+END
+Darwin-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-f90.mk
+END
+CYGWIN-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/CYGWIN-ifort.mk
+END
+IRIX64-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/IRIX64-f90.mk
+END
+MINGW-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/MINGW-g95.mk
+END
+Linux-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-ftn.mk
+END
+Darwin-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2245/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-g95.mk
+END
+CYGWIN-df.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/CYGWIN-df.mk
+END
+Linux-path.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-path.mk
+END
+SunOS-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/SunOS-ftn.mk
+END
+Linux-ifc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-ifc.mk
+END
+UNICOS-mp-ftn.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/UNICOS-mp-ftn.mk
+END
+Linux-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Linux-g95.mk
+END
+Darwin-pgi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-pgi.mk
+END
+MINGW-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/MINGW-gfortran.mk
+END
+UNICOS-mk-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/UNICOS-mk-f90.mk
+END
+make_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/make_macros.h
+END
+CYGWIN-g95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/CYGWIN-g95.mk
+END
+Darwin-gfortran.mk
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-gfortran.mk
+END
+OSF1-f90.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/OSF1-f90.mk
+END
+Darwin-ifort.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/Darwin-ifort.mk
+END
+AIX-xlf.mk
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/AIX-xlf.mk
+END
+SunOS-f95.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Compilers/SunOS-f95.mk
+END

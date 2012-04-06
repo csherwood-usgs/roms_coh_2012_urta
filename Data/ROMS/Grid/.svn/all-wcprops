@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Grid
+END
+bio_toy_grd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Grid/bio_toy_grd.nc
+END
+trench_grid_slope.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Grid/trench_grid_slope.nc
+END
+test_head_curv_grd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Grid/test_head_curv_grd.nc
+END
+inlet_test_grid.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Grid/inlet_test_grid.nc
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL
+END
+s4dvar_std_b.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/s4dvar_std_b.cdl
+END
+ini_ecosim.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/ini_ecosim.cdl
+END
+clm_ts.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/clm_ts.cdl
+END
+s4dvar_std_f.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/s4dvar_std_f.cdl
+END
+ini_hydro.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/ini_hydro.cdl
+END
+s4dvar_std_i.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/s4dvar_std_i.cdl
+END
+frc_bulk.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/frc_bulk.cdl
+END
+frc_uvstress.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/frc_uvstress.cdl
+END
+s4dvar_std_m.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/s4dvar_std_m.cdl
+END
+adsen.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/adsen.cdl
+END
+bry_limit.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/bry_limit.cdl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/README
+END
+bry_unlimit.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/bry_unlimit.cdl
+END
+frc_tides.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/frc_tides.cdl
+END
+frc_fluxclm.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/frc_fluxclm.cdl
+END
+frc_rivers.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/frc_rivers.cdl
+END
+s4dvar_obs.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/s4dvar_obs.cdl
+END
+ini_fennel.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/ini_fennel.cdl
+END
+grd_spherical.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/grd_spherical.cdl
+END
+ini_sed.cdl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/CDL/ini_sed.cdl
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL
+END
+cvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/cvout.f
+END
+dvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/dvout.f
+END
+iset.f
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/iset.f
+END
+ivout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/ivout.f
+END
+smout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/smout.f
+END
+second.f
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/second.f
+END
+zmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/zmout.f
+END
+second.t3d
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/second.t3d
+END
+svout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/svout.f
+END
+icnteq.f
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/icnteq.f
+END
+icopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/icopy.f
+END
+iswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/iswap.f
+END
+cmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/cmout.f
+END
+zvout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/zvout.f
+END
+dmout.f
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/dmout.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/UTIL/Makefile
+END

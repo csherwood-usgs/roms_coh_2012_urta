@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX
+END
+cndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/cndrv1.f
+END
+cndrv2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/cndrv2.f
+END
+cndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/cndrv3.f
+END
+cndrv4.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/cndrv4.f
+END
+zndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/zndrv1.f
+END
+zndrv2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/zndrv2.f
+END
+zndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/zndrv3.f
+END
+zndrv4.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/zndrv4.f
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/COMPLEX/makefile
+END

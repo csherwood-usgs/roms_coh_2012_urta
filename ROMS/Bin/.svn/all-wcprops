@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin
+END
+ws_remove.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/ws_remove.sh
+END
+copyright.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/copyright.sh
+END
+job_fte.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_fte.sh
+END
+job_op.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_op.sh
+END
+ws_remove.bash
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/ws_remove.bash
+END
+job_afte.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_afte.sh
+END
+copyright.bash
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/copyright.bash
+END
+cpp_clean
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/cpp_clean
+END
+submit_i4dvar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/submit_i4dvar.sh
+END
+sfmakedepend
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/sfmakedepend
+END
+job_normalization.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_normalization.sh
+END
+job_i4dvar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_i4dvar.sh
+END
+job_so_semi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_so_semi.sh
+END
+job_fsv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_fsv.sh
+END
+job_i4dvar_sen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_i4dvar_sen.sh
+END
+job_r4dvar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_r4dvar.sh
+END
+job_array_modes.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_array_modes.sh
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/build.sh
+END
+job_psas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_psas.sh
+END
+job_r4dvar_sen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_r4dvar_sen.sh
+END
+build.bash
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/build.bash
+END
+submit_is4dvar.bash
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/submit_is4dvar.bash
+END
+substitute
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/substitute
+END
+job_psas_sen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Bin/job_psas_sen.sh
+END

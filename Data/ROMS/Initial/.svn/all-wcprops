@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial
+END
+bio_toy_ini_ecosim.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/bio_toy_ini_ecosim.nc
+END
+bio_toy_ini_nemuro.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/bio_toy_ini_nemuro.nc
+END
+trench_init_slope.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/trench_init_slope.nc
+END
+bio_toy_ini_fennel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/bio_toy_ini_fennel.nc
+END
+bio_toy_ini_npzd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/bio_toy_ini_npzd.nc
+END
+test_head_ini.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Initial/test_head_ini.nc
+END

@@ -1,0 +1,138 @@
+10
+
+dir
+2249
+https://www.myroms.org/svn/cstm/branches/aretxabaleta/code_2012_urta/ROMS
+https://www.myroms.org/svn/cstm
+
+
+
+2012-01-14T06:29:02.242258Z
+2246
+aretxabaleta
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f8a40060-6117-0410-bf38-e76ff12de6d5
+
+External
+dir
+
+Include
+dir
+
+Version
+file
+
+
+
+
+2012-01-14T15:31:54.778165Z
+312f15f7d7809ce36e824a102c607a2c
+2012-01-04T18:50:27.238580Z
+2235
+arango
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+398
+
+Functionals
+dir
+
+Nonlinear
+dir
+
+Adjoint
+dir
+
+SeaIce
+dir
+
+Programs
+dir
+
+Representer
+dir
+
+Tangent
+dir
+
+License_ROMS.txt
+file
+
+
+
+
+2012-01-14T15:31:54.778165Z
+71a6335143344da2261b18a9ad062818
+2012-01-03T18:55:20.858131Z
+2232
+arango
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5182
+
+Utility
+dir
+
+Bin
+dir
+
+Modules
+dir
+
+Obsolete
+dir
+
+Drivers
+dir
+

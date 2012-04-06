@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE
+END
+sssimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/sssimp.f
+END
+dssimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/dssimp.f
+END
+znsimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/znsimp.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/debug.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/README
+END
+cnsimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/cnsimp.f
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/makefile
+END
+snsimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/snsimp.f
+END
+dnsimp.f
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/EXAMPLES/SIMPLE/dnsimp.f
+END

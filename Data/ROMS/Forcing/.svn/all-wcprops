@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Forcing
+END
+swan_shoreface_angle_forc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Forcing/swan_shoreface_angle_forc.nc
+END
+test_head_frc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Forcing/test_head_frc.nc
+END
+bio_toy_frc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Data/ROMS/Forcing/bio_toy_frc.nc
+END

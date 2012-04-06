@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI
+END
+pznapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pznapps.f
+END
+pzlarnv.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pzlarnv.f
+END
+pcneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcneupd.f
+END
+pzgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pzgetv0.f
+END
+pznaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pznaup2.f
+END
+pcnaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcnaitr.f
+END
+psnorm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psnorm2.f
+END
+i_aupd.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/i_aupd.h
+END
+pcngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcngets.f
+END
+psnaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psnaupd.f
+END
+pdznorm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdznorm2.f
+END
+pcneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcneigh.f
+END
+psneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psneupd.f
+END
+psnaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psnaitr.f
+END
+psngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psngets.f
+END
+idaup2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/idaup2.h
+END
+pslamch.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pslamch.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/debug.h
+END
+pssapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pssapps.f
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/Makefile
+END
+pssaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pssaup2.f
+END
+psneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psneigh.f
+END
+isaitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/isaitr.h
+END
+pdsaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdsaupd.f
+END
+pdseupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdseupd.f
+END
+pdnapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdnapps.f
+END
+pdlarnv.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdlarnv.f
+END
+pdsaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdsaitr.f
+END
+pdsgets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdsgets.f
+END
+pdgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdgetv0.f
+END
+pdnaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdnaup2.f
+END
+pznaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pznaupd.f
+END
+pzneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pzneupd.f
+END
+pznaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pznaitr.f
+END
+pzngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pzngets.f
+END
+pdseigt.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdseigt.f
+END
+pcnapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcnapps.f
+END
+pzneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pzneigh.f
+END
+pclarnv.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pclarnv.f
+END
+pcgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcgetv0.f
+END
+pcnaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcnaup2.f
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/stat.h
+END
+idaitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/idaitr.h
+END
+pssaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pssaupd.f
+END
+pdnorm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdnorm2.f
+END
+psseupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psseupd.f
+END
+psnapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psnapps.f
+END
+pslarnv.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pslarnv.f
+END
+pssaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pssaitr.f
+END
+psgetv0.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psgetv0.f
+END
+psnaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psnaup2.f
+END
+pssgets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pssgets.f
+END
+pdnaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdnaupd.f
+END
+pdneupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdneupd.f
+END
+pdnaitr.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdnaitr.f
+END
+pscnorm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pscnorm2.f
+END
+pdngets.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdngets.f
+END
+isaup2.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/isaup2.h
+END
+pdlamch.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdlamch.f
+END
+pdsapps.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdsapps.f
+END
+pdsaup2.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdsaup2.f
+END
+pdneigh.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pdneigh.f
+END
+psseigt.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/psseigt.f
+END
+pcnaupd.f
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/SRC/MPI/pcnaupd.f
+END

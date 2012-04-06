@@ -1,0 +1,527 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/cstm/!svn/ver/2246/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear
+END
+mpdata_adiff.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/mpdata_adiff.F
+END
+step2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/step2d.F
+END
+t3dmix2_iso.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix2_iso.h
+END
+exchange_2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/exchange_2d.F
+END
+t3dmix4_iso.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix4_iso.h
+END
+prsgrd32.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd32.h
+END
+bc_2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bc_2d.F
+END
+obc_adjust.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/obc_adjust.F
+END
+set_massflux.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_massflux.F
+END
+t3dmix2_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix2_s.h
+END
+set_depth.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_depth.F
+END
+t3dmix4_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix4_s.h
+END
+step3d_t.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/step3d_t.F
+END
+bc_bry2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bc_bry2d.F
+END
+forcing.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/forcing.F
+END
+bvf_mix.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bvf_mix.F
+END
+bulk_flux.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bulk_flux.F
+END
+vwalk_floats.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/vwalk_floats.F
+END
+rho_eos.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/rho_eos.F
+END
+my25_prestep.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/my25_prestep.F
+END
+bbl.F
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bbl.F
+END
+output.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/output.F
+END
+ini_fields.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/ini_fields.F
+END
+obc_volcons.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/obc_volcons.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/Module.mk
+END
+pre_step3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/pre_step3d.F
+END
+t3dmix.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix.F
+END
+zetabc.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/zetabc.F
+END
+lmd_skpp.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/lmd_skpp.F
+END
+nearshore_mellor08.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/nearshore_mellor08.h
+END
+step3d_uv.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/step3d_uv.F
+END
+radiation_stress.F
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/radiation_stress.F
+END
+wetdry.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/wetdry.F
+END
+set_zeta.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_zeta.F
+END
+mb_bbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/mb_bbl.h
+END
+rhs3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/rhs3d.F
+END
+set_tides.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_tides.F
+END
+t3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dbc_im.F
+END
+frc_adjust.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/frc_adjust.F
+END
+t3dmix2_geo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix2_geo.h
+END
+gls_prestep.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/gls_prestep.F
+END
+t3dmix4_geo.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/t3dmix4_geo.h
+END
+sg_bbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/sg_bbl.h
+END
+my25_corstep.F
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/my25_corstep.F
+END
+ssw_bbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/ssw_bbl.h
+END
+hmixing.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/hmixing.F
+END
+prsgrd31.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd31.h
+END
+get_data.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/get_data.F
+END
+conv_bry3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/conv_bry3d.F
+END
+main3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/main3d.F
+END
+uv3dmix2_geo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/uv3dmix2_geo.h
+END
+tkebc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/tkebc_im.F
+END
+uv3dmix4_geo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/uv3dmix4_geo.h
+END
+lmd_swfrac.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/lmd_swfrac.F
+END
+get_idata.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/get_idata.F
+END
+u2dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/u2dbc_im.F
+END
+gls_corstep.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/gls_corstep.F
+END
+set_data.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_data.F
+END
+u3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/u3dbc_im.F
+END
+set_vbc.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_vbc.F
+END
+set_avg.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/set_avg.F
+END
+conv_3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/conv_3d.F
+END
+uv3dmix.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/uv3dmix.F
+END
+prsgrd.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd.F
+END
+diag.F
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/diag.F
+END
+uv3dmix2_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/uv3dmix2_s.h
+END
+prsgrd40.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd40.h
+END
+nearshore_mellor05.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/nearshore_mellor05.h
+END
+conv_bry2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/conv_bry2d.F
+END
+uv3dmix4_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/uv3dmix4_s.h
+END
+exchange_3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/exchange_3d.F
+END
+prsgrd42.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd42.h
+END
+interp_floats.F
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/interp_floats.F
+END
+bc_3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bc_3d.F
+END
+main2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/main2d.F
+END
+prsgrd44.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/prsgrd44.h
+END
+lmd_vmix.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/lmd_vmix.F
+END
+step_floats.F
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/step_floats.F
+END
+step2d_LF_AM3.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/step2d_LF_AM3.h
+END
+v2dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/v2dbc_im.F
+END
+wvelocity.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/wvelocity.F
+END
+v3dbc_im.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/v3dbc_im.F
+END
+bc_bry3d.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/bc_bry3d.F
+END
+omega.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/omega.F
+END
+lmd_bkpp.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/lmd_bkpp.F
+END
+initial.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/initial.F
+END
+conv_2d.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Nonlinear/conv_2d.F
+END

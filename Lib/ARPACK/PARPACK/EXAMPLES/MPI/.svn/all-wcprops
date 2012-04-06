@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI
+END
+mpif.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/mpif.h
+END
+pcndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pcndrv1.f
+END
+psndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/psndrv1.f
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/stat.h
+END
+pdndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pdndrv1.f
+END
+psndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/psndrv3.f
+END
+pdndrv3.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pdndrv3.f
+END
+pssdrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pssdrv1.f
+END
+pdsdrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pdsdrv1.f
+END
+pzndrv1.f
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/pzndrv1.f
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/debug.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/Lib/ARPACK/PARPACK/EXAMPLES/MPI/makefile
+END

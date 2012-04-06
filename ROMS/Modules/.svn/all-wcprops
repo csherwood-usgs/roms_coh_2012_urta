@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules
+END
+mod_bbl.F
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_bbl.F
+END
+mod_arrays.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_arrays.F
+END
+mod_biology.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_biology.F
+END
+mod_sediment.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_sediment.F
+END
+mod_kinds.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_kinds.F
+END
+mod_coupler.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_coupler.F
+END
+mod_average.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_average.F
+END
+mod_coupling.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_coupling.F
+END
+mod_ncparam.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_ncparam.F
+END
+mod_forces.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_forces.F
+END
+mod_sources.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_sources.F
+END
+mod_eoscoef.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_eoscoef.F
+END
+mod_ocean.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_ocean.F
+END
+mod_grid.F
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_grid.F
+END
+mod_sedbed.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_sedbed.F
+END
+mod_diags.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_diags.F
+END
+mod_fourdvar.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_fourdvar.F
+END
+mod_floats.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_floats.F
+END
+mod_scalars.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_scalars.F
+END
+mod_stepping.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_stepping.F
+END
+mod_strings.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_strings.F
+END
+mod_mixing.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_mixing.F
+END
+mod_parallel.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_parallel.F
+END
+mod_param.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_param.F
+END
+mod_netcdf.F
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_netcdf.F
+END
+mod_storage.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_storage.F
+END
+mod_nesting.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_nesting.F
+END
+mod_tides.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_tides.F
+END
+Module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/Module.mk
+END
+mod_eclight.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_eclight.F
+END
+mod_boundary.F
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_boundary.F
+END
+mod_clima.F
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_clima.F
+END
+mod_iounits.F
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cstm/!svn/ver/2244/branches/aretxabaleta/code_2012_urta/ROMS/Modules/mod_iounits.F
+END
