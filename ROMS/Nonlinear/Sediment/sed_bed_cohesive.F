@@ -930,14 +930,13 @@ minlayer_thick(ng) = newlayer_thick(ng)
 !  towards representative profile tcr...100 x slower for "swelling"
 !  than consolidation
 !  TODO - make the factor an input parameter
-          IF( bed(i,j,1,ibtcr).LE.tcr(1)) THEN
-!             alpha = MIN(dt(ng)/bottom(i,j,idtim),1.0_r8)
-             alpha = MIN(dt(ng)/tcr_tim(ng),1.0_r8)
-          ELSE
-!             alpha = MIN(dt(ng)/(100.0_r8*bottom(i,j,idtim)),1.0_r8)
-             alpha = MIN(dt(ng)/(100.0_r8*tcr_tim(ng)),1.0_r8)
-          ENDIF
           DO k=1,Nbed
+             IF( bed(i,j,k,ibtcr).LE.tcr(k)) THEN
+                alpha = MIN(dt(ng)/tcr_tim(ng),1.0_r8)
+             ELSE
+                alpha = MIN(dt(ng)/(100.0_r8*tcr_tim(ng)),1.0_r8)
+             ENDIF
+             
              bed(i,j,k,ibtcr)=bed(i,j,k,ibtcr)+                         &
      &            alpha*(tcr(k)-bed(i,j,k,ibtcr))
              bed(i,j,k,ibtcr)=                                          &
